@@ -13,4 +13,3 @@
 ## Spring Core Concepts Usecases
 5. Create a Project to learn Spring Concepts.
     - Use Spring Initializer to Create Project.
-6. 
