@@ -9,3 +9,8 @@
     - Use REST Controller to respond to the REST Request.
 4. Open and run the Hello World App from VS Code.
     – Add Spring Boot Extension Pack and then start executing the project.
+    
+## Spring Core Concepts Usecases
+5. Create a Project to learn Spring Concepts.
+    - Use Spring Initializer to Create Project.
+6. 
