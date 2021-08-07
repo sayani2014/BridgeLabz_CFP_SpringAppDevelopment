@@ -13,3 +13,5 @@
 ## Spring Core Concepts Usecases
 5. Create a Project to learn Spring Concepts.
     - Use Spring Initializer to Create Project.
+6. Add Logger to Log Messages
+    - Use Built In SLF4J
